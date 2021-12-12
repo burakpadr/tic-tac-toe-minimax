@@ -1,5 +1,3 @@
-# tic-tac-toe-minimax
-
 This project is a final project created to finish the Introduction to Programming course available at CDV (Collegium Da Vinci).
 
 This Tic-Tac-Toe implementation in this project is a game against the computer. But this computer make a move using by Minimax Algorithm.

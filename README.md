@@ -4,4 +4,4 @@ This project is a final project created to finish the Introduction to Programmin
 
 This Tic-Tac-Toe implementation in this project is a game against the computer. But this computer make a move using by Minimax Algorithm.
 The minimax algorithm analyzes all the moves of the opposing player and the computer makes the appropriate move according to these analyzes.
-It means that no one playing this game can beat the computer on the other side, so that it can be a draw at most. 
+The computer uses the minimax algorithm when making moves. That's why no one playing this game can beat the computer. 
